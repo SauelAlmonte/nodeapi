@@ -7,14 +7,13 @@ In this application I used Modern JavaScript, NodeJS Event Loop, Asynchronous Pr
 
 ### Resources used
 
------------
 
-Database
+#### Database
 
 * MongoDB
 
 
-NPM Modules
+#### NPM Modules
 
 * Express
 * Express Validator
